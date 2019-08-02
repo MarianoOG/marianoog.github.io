@@ -276,28 +276,6 @@ d    | e     | f
 ```
 
 ----
-# Dynamic ADS Block
-
-{:.sub-title}
-#### It autoresize in base of the container dimensions, avaible if you edit _confi.yaml file
-
-<div>
-{% include ads-block.html %}
-</div>
-
-----
-
-{:.sub-title}
-#### in HTML and liquid
-
-```
-<div>
-```
-&#123;&#37; include ads-block.html &#37;&#125;
-```
-<div>
-```
-----
 
 {:.sub-title}
 # Copy Sample
