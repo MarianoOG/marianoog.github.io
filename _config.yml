@@ -1,1 +1,27 @@
 remote_theme: heliumjk/heliumjk.github.io
+
+url: https://marianoog.github.io
+baseurl: "/marianoog.github.io"
+
+#Google Ad Words Data from scripts code (using Google responsive options) and ad client
+data-ad-slot: 
+data-ad-client: 
+google_ad_client:
+
+title : MarianoOG
+tagline: Sitio web personal de Mariano Orozco Garcia creador del podcast Algoritmos, fotógrafo, desarrollador de software, amante de la inteligencia artificial, ingeniero en biónica, educador y co-fundador de Fundación Kichihua
+author : 
+  name : Mariano Orozco Garcia
+  site: https://www.marianoog.com
+  description : Sitio web personal de Mariano Orozco Garcia, creador del podcast Algoritmos, fotógrafo, desarrollador de software, amante de la inteligencia artificial, ingeniero en biónica, educador y co-fundador de Fundación Kichihua.
+  email : contacto@marianoog.com
+  github : marianoog
+  twitter : mariano_og
+  facebook: 
+  linkedin: marianoog
+  instagram: mariano_og
+  pinterest: 
+  feedburner: 
+
+twitter_username: mariano_og
+production_url : https://www.marianoog.com
