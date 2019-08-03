@@ -183,9 +183,9 @@ canonical: https://marianoog.github.io
     <div class="container">                              
       <div id="posts-carousel" class="owl-carousel">
         {% for post in site.posts %}     
-          <div class="blog-block blog block carousel-post text-center">
+          <div class="blog block carousel-post text-center">
             {% if post.img %}           
-              <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="">
+              <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="Post image of {{ post.title }}">
             {% endif %}           
             <h5>{{ post.title }}</h5>
             <p>{{ post.excerpt }}</p>
