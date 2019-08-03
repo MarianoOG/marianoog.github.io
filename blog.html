@@ -1,27 +1,26 @@
-
 ---
 layout: blog
-title: Blog
+title: Pensamientos
 group: navigation
 tags : [blog, posts, post]
 author : MarianoOG
 css: 
 js:
 keywords: 
-canonical: https://marianoog.github.io/blog
+canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
 {% for post in site.posts %}
-	  <div class="blog-block post-content-area">
-	   {% if post.img %}	  
-            <img src="{{ BASE_PATH }}/assets/images/blog/{{ post.img }}" alt="{{ post.title }} image">
-	   {% endif %}	  
-            <div class="blog-post">
-              <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-	      <p>{{ post.excerpt }}</p>
-              <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Read More</a>
-            </div>
-          </div>
-	  <div class="mb-60"></div>
+  <div class="blog-block post-content-area">
+   {% if post.img %}	  
+        <img src="{{ BASE_PATH }}/assets/images/blog/{{ post.img }}" alt="{{ post.title }} image">
+   {% endif %}	  
+        <div class="blog-post">
+          <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+      <p>{{ post.excerpt }}</p>
+          <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Read More</a>
+        </div>
+      </div>
+  <div class="mb-60"></div>
 {% endfor %}
