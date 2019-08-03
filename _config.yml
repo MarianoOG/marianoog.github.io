@@ -8,6 +8,7 @@ markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
 url: https://marianoog.github.io
+baseurl: "/marianoog.github.io"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -33,7 +34,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://www.marianoog.com
+production_url : https://marianoog.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
