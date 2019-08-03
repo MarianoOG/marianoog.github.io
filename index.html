@@ -13,7 +13,7 @@ canonical: https://marianoog.github.io
 <!-- Content Area Start -->
 <div id="content">
 
-  <div class="header-style-2" padding-top="40px" padding-bottom="40px">
+  <div class="header-style-2">
     <div class="container">
       <div class="row">
 
@@ -26,9 +26,9 @@ canonical: https://marianoog.github.io
         </div>
         
         <div class="col-xs-12 col-sm-4">
-          <figure>
+          <div class="testimonial-images">
             <img class="img-circle" src="{{ BASE_PATH }}/assets/images/foto.jpg" alt="Foto de Mariano Orozco Garcia">
-          </figure>
+          </div>
         </div>
 
       </div>
@@ -157,7 +157,7 @@ canonical: https://marianoog.github.io
               <h3 class="header-title animated fadeInDown">Podcast <span class="text-primary">Algoritmos</span></h3>
               <p class="header-text animated fadeIn">La tecnología que utilizamos cada vez se vuelve más compleja y confusa. Si como a mí te interesa saber más sobre cómo funciona y como está cambiando el mundo en el que vivimos, escucha el podcast algoritmos. En el aprenderemos juntos sobre los algoritmos que utilizan las herramientas digitales, discutiremos los problemas derivados de su uso y las nuevas oportunidades que nos brindan.</p>
               <a href="https://ona309.com/Podcast" class="page-scroll btn btn-lg btn-default-filled animated fadeInUp">Escuchar ahora</a>
-              <a href="https://github.com/MarianoOG/PodcastAlgoritmos" class="page-scroll btn btn-lg btn-common animated fadeInUp">Leer más</a>
+              <a href="https://github.com/MarianoOG/PodcastAlgoritmos" class="page-scroll btn btn-lg btn-common animated fadeInUp">Leer más <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
             </div>
           </div>
         </div>
@@ -169,7 +169,7 @@ canonical: https://marianoog.github.io
   <div class="mb-60"></div>
 
   <div class="container">
-    <h4 class="sub-title space-left">Mobile scroll blog carousel</h4>
+    <h4 class="sub-title space-left">Pensamientos</h4>
   </div>
 
   <!-- Posts carousel -->
@@ -177,7 +177,7 @@ canonical: https://marianoog.github.io
     <div class="container">                              
       <div id="posts-carousel" class="owl-carousel">
         {% for post in site.posts %}     
-          <div class="blog-block blog block carousel-post">
+          <div class="blog-block blog block carousel-post text-center">
             {% if post.img %}           
               <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="">
             {% endif %}           
