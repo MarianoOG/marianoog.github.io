@@ -7,18 +7,11 @@ highlighter: null
 markdown: kramdown
 extensions: [fenced_code_blocks]
 excerpt_separator: "<!--more-->"
-url: https://www.marianoog.com
+url: https://marianoog.github.io
+baseurl: "/marianoog.github.io"
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-
-#Google Ad Words Data from scripts code (using Google responsive options) and ad client
-data-ad-slot: 
-data-ad-client: 
-google_ad_client: 
-
-post_limit: 5
-
 
 title : MarianoOG
 tagline: Página personal de Mariano Orozco García
