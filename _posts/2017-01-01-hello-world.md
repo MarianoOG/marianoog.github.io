@@ -1,24 +1,12 @@
 ---
 layout: post
-category : lessons
-tagline: "Hello world post on helium jekyll"
-tags : [intro, beginner, jekyll, tutorial]
+category : category
+tagline: Hello World Post
 img : helloworld.jpg
-img-mobile : 
-img2 : 
-img3 : 
-author : Antonio Trento
-title2 : 
-title3 : 
-css: 
-js: 
-bgcolor: ff5a71
-keywords: helium, html, css, landing page, jekyll, ruby, web marketing, advertising
-canonical: https://heliumjk.github.io
+author : MarianoOG 
+canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
-
-Hello world! Is the first post on helium jekyll
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus consequat luctus neque eget commodo. Sed a molestie lorem. Fusce lectus mauris, vulputate sollicitudin ullamcorper ut, semper at risus. Nunc porta ut velit non fringilla. Pellentesque egestas eros vitae suscipit imperdiet. Cras imperdiet a velit sit amet placerat. Morbi dolor quam, semper ac venenatis ac, pretium at ex. Suspendisse fermentum mi sit amet risus congue ullamcorper. Sed sed ultrices libero. Cras pulvinar dui efficitur felis maximus, ac dictum leo egestas. Pellentesque ut dictum odio. Aliquam varius viverra orci, quis blandit mi blandit vitae. Donec non semper augue, ut consectetur ligula. Aenean tellus tortor, sagittis sed iaculis quis, imperdiet et ex. Mauris id libero sed diam euismod pharetra.
 
