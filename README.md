@@ -1,5 +1,5 @@
 # Página personal
 
-Esta página ser el sustituto de la pagina actual http://www.marianoog.com
+![Logo MarianoOG](assets/images/logo.png)
 
-Por el momento me encentro trabajando en ella por lo que sus links pueden estar rotos, mal referenciados o incompletos.
+Esta es la página personal de Mariano Orozco García y esta alojada en http://www.marianoog.com
