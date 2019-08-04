@@ -6,7 +6,7 @@ img: helloworld.jpg
 author: MarianoOG
 css: 
 js: 
-keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Kichihua, Software, marianoog
+keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Software, marianoog
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
