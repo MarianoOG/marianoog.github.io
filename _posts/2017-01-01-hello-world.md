@@ -1,9 +1,12 @@
 ---
 layout: post
-category : category
+category: category
 tagline: Hello World Post
-img : helloworld.jpg
-author : MarianoOG 
+img: helloworld.jpg
+author: MarianoOG
+css: 
+js: 
+keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Kichihua, Software, marianoog
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
