@@ -11,15 +11,16 @@
               {{ page.tagline }}
             </p>
           {% endif %}
-          <a href="https://ona309.com/Algoritmos{{ page.cap }}" class="page-scroll btn btn-lg btn-default-filled">Escuchar episodio<i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-          <div class="mb-60"></div>                      
+          <a href="#post" class="page-scroll btn btn-lg btn-default-filled animated fadeInUp">Leer Notas</a>
+          <a href="https://ona309.com/Algoritmos{{ page.cap }}" class="btn btn-lg btn-common animated fadeInUp">Escuchar episodio <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+          <div class="mb-60"></div>
         </div>
       </div>
 
       <div class="col-xs-12 col-sm-6">
         {% if page.img %}
           <figure>
-            <img src="{{ BASE_PATH }}/assets/images/blog/{{ page.img }}" alt="">
+            <img src="{{ BASE_PATH }}/images/{{ page.cap }}.jpg" alt="Portada del episodio">
           </figure>
         {% endif %}
       </div>
