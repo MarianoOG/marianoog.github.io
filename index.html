@@ -46,7 +46,7 @@ canonical: https://marianoog.github.io
 
       <ul class="row portfolio list-unstyled" id="grid">
         
-        <li class="col-xs-6 col-md-3 project">
+        <li class="col-xs-6 col-md-6 project">
           <figure>
             <div class="hovereffect">
               <img src="{{ BASE_PATH }}/assets/images/portfolio/privacy.png" alt="Privacidad y Seguridad">
@@ -63,7 +63,7 @@ canonical: https://marianoog.github.io
           </div>
         </li>
 
-        <li class="col-xs-6 col-md-3 project">
+        <li class="col-xs-6 col-md-6 project">
           <figure>
             <div class="hovereffect">
               <img src="{{ BASE_PATH }}/assets/images/portfolio/ml.png" alt="Material del curso de Machine Learning">
@@ -80,7 +80,7 @@ canonical: https://marianoog.github.io
           </div>
         </li>
 
-        <li class="col-xs-6 col-md-3 project">
+        <li class="col-xs-6 col-md-6 project">
           <figure>
             <div class="hovereffect">
               <img src="{{ BASE_PATH }}/assets/images/portfolio/evolutive.png" alt="Algoritmos Evolutivos para Optimización Multiobjetivo">
@@ -97,7 +97,7 @@ canonical: https://marianoog.github.io
           </div>
         </li>
 
-        <li class="col-xs-6 col-md-3 project">
+        <li class="col-xs-6 col-md-6 project">
           <figure>
             <div class="hovereffect">
               <img src="{{ BASE_PATH }}/assets/images/portfolio/swarm.png" alt="Swarm Robotics and Flocking Behaviour">
@@ -141,14 +141,14 @@ canonical: https://marianoog.github.io
   <div class="mb-60"></div>
 
   <div class="container">
-    <h4 class="sub-title space-left">Pensamientos</h4>
+    <h4 class="sub-title space-left">Pensamientos <a href="{{ BASE_PATH }}/archive">(ver todos)</a></h4>
   </div>
 
   <!-- Posts carousel -->
   <section id="blog">
     <div class="container">                              
       <div id="posts-carousel" class="owl-carousel">
-        {% for post in site.posts %}     
+        {% for post in site.posts limit 10 %}     
           <div class="blog block carousel-post text-center">
             {% if post.img %}           
               <img src="{{ BASE_PATH }}/assets/images/blog/{{ post.img }}" alt="Post image of {{ post.title }}">
@@ -160,6 +160,7 @@ canonical: https://marianoog.github.io
         {% endfor %}     
       </div>              
     </div>
+
   </section>
   <!-- End Posts carousel -->
 
