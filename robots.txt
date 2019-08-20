@@ -5,5 +5,7 @@ Disallow: /_drafts/
 Disallow: /_config.yml
 Disallow: /_layouts/
 Disallow: /_plugins/
+Disallow: /_thirdParty/
 
-Sitemap: https://www.marianoog.com/sitemap.txt
+Sitemap: https://www.marianoog.com/sitemap.xml
+Sitemap: https://www.marianoog.com/PodcastAlgoritmos/sitemap.xml
