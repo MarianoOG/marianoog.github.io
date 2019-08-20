@@ -150,7 +150,7 @@ canonical: https://marianoog.github.io
         {% for post in site.posts limit 10 %}     
           <div class="blog block carousel-post text-center">
             {% if post.img %}           
-              <img src="{{ BASE_PATH }}/assets/images/blog/{{ post.img }}" alt="Post image of {{ post.title }}">
+              <img src="{{ BASE_PATH }}/assets/images/cover/{{ post.img }}" alt="Post image of {{ post.title }}">
             {% endif %}           
             <h5>{{ post.title }}</h5>
             <p>{{ post.tagline }}</p>
