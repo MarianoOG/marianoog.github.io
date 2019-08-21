@@ -1,7 +1,7 @@
 ---
 layout: post
 category: español, crear
-tagline: Yo nunca pensé en escribir, mucho menos por voluntad propia. Tal vez esta sea una buena oportunidad para reconciliarme con la hoja en blanco.
+tagline: Nunca pensé en escribir, mucho menos por voluntad propia. Tal vez esta sea una buena oportunidad para reconciliarme con la hoja en blanco.
 img: writing.jpg
 author: MarianoOG
 css: 
@@ -17,7 +17,7 @@ Después de comer, de quejarme con mi mamá sobre la tarea y de ver un poco la t
 
 ## Escribir para aprender
 
-Yo nunca pensé en escribir, mucho menos por voluntad propia. Últimamente he escuchado, leído y visto mucho sobre importancia de contar historias. Al fin me han convencido, aunque sé muy poco al respecto. La forma que conozco de realmente aprender algo es haciéndolo. Tal vez sea una buena oportunidad para reconciliarme con la hoja en blanco.
+Nunca pensé en escribir, mucho menos por voluntad propia. Últimamente he escuchado, leído y visto mucho sobre importancia de contar historias. Al fin me han convencido, aunque sé muy poco al respecto. La forma que conozco de realmente aprender algo es haciéndolo. Tal vez sea una buena oportunidad para reconciliarme con la hoja en blanco.
 
 ## Escribir para equivocarse
 
