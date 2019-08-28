@@ -21,7 +21,7 @@ Nunca pensé en escribir, mucho menos por voluntad propia. Últimamente he escuc
 
 ## Escribir para equivocarse
 
-Siempre que compartes tus ideas estas serán criticadas y corregidas. Esto aún me asusta para ser sincero. He empezado a lidiar con ello por medio de mis contribuciones a [Fundación Kichihua](https://www.kichihua.com) y gracias al [Podcast Algoritmos](/PodcastAlgoritmos). Ahora el paso que tiene sentido para mi es probar el medio escrito. Quiero iniciar discusiones que nos aporten y nutran mutuamente. Así que desde el primer artículo lo digo: favor de aclara cualquier error o contradicción en la que llegue a caer.
+Siempre que compartes tus ideas estas serán criticadas y corregidas. Esto aún me asusta para ser sincero. He empezado a lidiar con ello por medio de mis contribuciones a [Fundación Kichihua](https://www.kichihua.com) y gracias al [Podcast Algoritmos](/PodcastAlgoritmos). Ahora el paso que tiene sentido para mi es probar el medio escrito. Quiero iniciar discusiones que nos aporten y nutran mutuamente. Así que desde el primer artículo lo digo: favor de aclarar cualquier error o contradicción en la que llegue a caer.
 
 ## Escribir para compartir experiencias
 
