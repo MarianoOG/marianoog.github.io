@@ -15,7 +15,7 @@ Hace algunos años fui de intercambio a Finlandia. Hace unos días recibí un me
 
 Para tener un poco de coherencia dividí las información en cosas que pueden ser relevantes para cualquier persona como los viajes, comida, diferencias culturales, gastos, idioma y clima. Después, escribí cosas más específicas sobre el intercambio como los requisitos para la beca, materias, hospedaje y seguros. Te invito a revisar aquellas secciones que te sean de mayor interés.
 
-## Cómo es en finlandia en general
+## ¿Cómo es en Finlandia (desde mi punto de vista)?
 
 Es muy tranquilo y todo funciona como tiene que funcionar. Es lo más cercano que conozco a una utopía. Tal vez eso sea exagerar, pero de esa forma me ha gustado. Vivía en Espoo, que es un poblado a veinte minutos de la capital, Helsinki. 
 
@@ -29,11 +29,11 @@ El sauna es una de las actividades más importantes que debes de hacer si estás
 
 ### La escuela
 
-Estudió ingeniería biónica. En la escuela me fue muy bien me gusto mucho el sistema es muy libre y puedes elegir practimante lo que quieras, las clases no tienes que entrar, desde el principio te dan todo e material y bien puedes hacerlo todo por tu cuenta y solo entregar trabajos y presentar examen, pero siempre puedes ir a preguntar. Saltarte los temas fáciles y solo ir a las clases que te interesan muy libre y muy cómodos los estudios La escuela de allá y en general el modelo educativo es muy libre yo fui a la escuela de ciencias, cada escuela en su portal tiene una tira de materias en inglés, no te enfoques en la carrera eso no importa realmente.
+Estudió ingeniería biónica. En la escuela me fue muy bien me gusto mucho el sistema es muy libre y puedes elegir prácticamente lo que quieras, las clases no tienes que entrar, desde el principio te dan todo e material y bien puedes hacerlo todo por tu cuenta y solo entregar trabajos y presentar examen, pero siempre puedes ir a preguntar. Saltarte los temas fáciles y solo ir a las clases que te interesan muy libre y muy cómodos los estudios La escuela de allá y en general el modelo educativo es muy libre yo fui a la escuela de ciencias, cada escuela en su portal tiene una tira de materias en inglés, no te enfoques en la carrera eso no importa realmente.
 
 ### Idioma
 
-El finés es un sistema de criptología impenetrable. Pero no te preocupes que casi todos los fineses con los que platique tenían un excelente nivel de inglés.  Hasta con un niño de diez años y su abuela de alrededor de setenta años con quienes nos encontramos en medio del bosque era totalmente posible comunicarse.
+El finés es un sistema de criptografía impenetrable. Pero no te preocupes que casi todos los fineses con los que platique tenían un excelente nivel de inglés.  Hasta con un niño de diez años y su abuela de alrededor de setenta años con quienes nos encontramos en medio del bosque era totalmente posible comunicarse.
 
 ## Viajes
 
@@ -45,13 +45,13 @@ También hay grupos en Facebook para viajes (pero esos se crean cada semestre) p
 
 ### Lapland y San Petersburgo
 
-Lapland es el viaje que no te puedes perder, en él verás la aurora boreal.  Este viaje lo realize con Erasmus. Tome el viaje a San Petersburgo y Lapland con ese grupo y lo bueno es que tienen actividades planeadas para todo el recorrido por lo que no tienes que planear cada cosa y hay suficiente tiempo libre para descansar.
+Lapland es el viaje que no te puedes perder, en él verás la aurora boreal.  Este viaje lo realice con Erasmus. Tome el viaje a San Petersburgo y Lapland con ese grupo y lo bueno es que tienen actividades planeadas para todo el recorrido por lo que no tienes que planear cada cosa y hay suficiente tiempo libre para descansar.
 
 ### Estocolmo y Tallin 
 
 Por otro lado hacerlo por tu cuenta puede resultar más barato. El viaje a Estocolmo y Tallin lo realice por mi cuenta, una vez que tenía varios amigos que también se unieron. En el caso de Estocolmo pudimos estar mucho mas tiempo en la ciudad ya que dormimos en el barco, lo cual lo volvió mucho más cansado pero disfrutamos la ciudad por 12 horas en lugar de las 4 que ofrecía Erasmus por al rededor de la mitad del precio.
 
-Estas son las páginas de los ferries para los viajes por mar:  [Eckeroline](https://www.eckeroline.fi/) y [Viking line](https://www.sales.vikingline.com/)
+Estas son las páginas de los feries para los viajes por mar: [Eckeroline](https://www.eckeroline.fi/) y [Viking line](https://www.sales.vikingline.com/)
 
 ### Dentro de Finlandia
 
@@ -75,13 +75,13 @@ El transporte no es muy caro si pagas por varios meses y por las zonas que realm
 
 ### Comida
 
-La comida es cara en Finlandia. Tanto, que nunca fui a un restaurant que no tuviera descuento de estudiante. UniCafe te salva de esos problemas, son una serie de restaurantes para estudiantes dispersos por el campus y alrededor de la ciudad. Puedes ver los menús, precios y ubicaciónes  [aquí](https://www.unicafe.fi/en/). Necesitas la credencial de estudiante finlandesa para los precios especiales (ISIC no sirve), de cualquier forma sin ella los precios siguen siendo accesibles a comparación de los restaurantes comunes.
+La comida es cara en Finlandia. Tanto, que nunca fui a un restaurante que no tuviera descuento de estudiante. UniCafe te salva de esos problemas, son una serie de restaurantes para estudiantes dispersos por el campus y alrededor de la ciudad. Puedes ver los menús, precios y ubicaciones  [aquí](https://www.unicafe.fi/en/). Necesitas la credencial de estudiante de Finlandia para los precios especiales (ISIC no sirve), de cualquier forma sin ella los precios siguen siendo accesibles a comparación de los restaurantes comunes.
 
 De cualquier forma, te recomiendo buscar hospedaje con cocina eso te ahorra mucho dinero; especialmente los fines de semana, días feriados o cuando es muy tarde y no has comido. Lo cual nos lleva a la siguiente sección.
 
 ## Hospedaje
 
-Como estudiante de la Universidad Aalto tuve dos opciones para hospedarme AYY y HOAS. Ayy tiene la ventaja de que los cuartos están en el campus y es menos costoso pero hay muy pocos lugares y generalmente son cuartos muy pequeños. Por otro lado HOAS está distribuido por la ciudad por lo que puedes llegar a vivir más lejos del campus y a un costo más elevado. A cambio de eso, tendrás más comodidad y privacidad ya que compartirás las áreas comunes con mucho menos personas.
+Como estudiante de la Universidad Aalto tuve dos opciones para hospedarme AYY y HOAS. AYY tiene la ventaja de que los cuartos están en el campus y es menos costoso pero hay muy pocos lugares y generalmente son cuartos muy pequeños. Por otro lado HOAS está distribuido por la ciudad por lo que puedes llegar a vivir más lejos del campus y a un costo más elevado. A cambio de eso, tendrás más comodidad y privacidad ya que compartirás las áreas comunes con mucho menos personas.
 
 Yo me hospede en HOAS, la renta era de 403 EUR (alrededor de $7,000 MXN en 2015). Hay hospedajes más baratos y más caros, pero sólo puedes hacer sugerencias de características no elegir el departamento. 
 
@@ -89,17 +89,17 @@ Yo me hospede en HOAS, la renta era de 403 EUR (alrededor de $7,000 MXN en 2015)
 
 Si quieres ahorrar pregunta cuales son los grupos de Facebook activos para intercambiar cubiertos o muebles. Pasa muy seguido que los alumnos de intercambio del semestre anterior dejan sus cosas a un precio muy bajo o incluso las regalan. 
 
-En mi caso el edificio tenía un sótano donde los inquilinos anteriores me dejaron sartenes, cubiertos, platos, cobijas, almohadas e incluso juegos de mesa. En caso de necesitar algo más puedes ir al [marketplace de la universidad]( https://aalto.sharetribe.com/en) o a la tienda de reciclaje [kierratyskeskus](http://www.kierratyskeskus.fi/), si quieres algo nuevo IKEA siempre será una opción.
+En mi caso el edificio tenía un sótano donde los inquilinos anteriores me dejaron ollas, cubiertos, platos, cobijas, almohadas e incluso juegos de mesa. En caso de necesitar algo más puedes ir al [portal de venta de la universidad]( https://aalto.sharetribe.com/en) o a la tienda de reciclaje [kierratyskeskus](http://www.kierratyskeskus.fi/), si quieres algo nuevo IKEA siempre será una opción.
 
 ## Escolares
 
-Estudié en Aalto University durante un semestre, en la escuela de ciencias. El material de la escuela y todo lo relacionado con la universidad está incluido en tu inscripción, así que no te preocupes por eso. 
+Estudié en la Universidad Aalto durante un semestre, en la escuela de ciencias. El material de la escuela y todo lo relacionado con la universidad está incluido en tu inscripción, así que no te preocupes por eso. 
 
 Hay un pago opcional en caso de que quieras unirte a alguna fraternidad. Te recomiendo unirte a una si quieres conocer fineses y sus costumbres. Aparte de que te invitan a varios eventos. En ese momento el costo fue de aproximadamente 60 EUR.
 
 ### Materias
 
-La universidad de aalto es interdisciplinaria por lo que puedes elegir prácticamente cualquier materia que quieras. Sin embargo debes de tomar en cuenta las restricciones del politécnico y la afinidad con tu carrera. Yo estaba inscrito en la escuela de ciencias pero tomé materias de la escuela de computación, de física y de idiomas
+La Universidad de Aalto es interdisciplinaria por lo que puedes elegir prácticamente cualquier materia que quieras. Sin embargo debes de tomar en cuenta las restricciones del politécnico y la afinidad con tu carrera. Yo estaba inscrito en la escuela de ciencias pero tomé materias de la escuela de computación, de física y de idiomas
 
 Las inscripciones las realizas en un portal web. Cuando te dan tu clave de acceso y si hay lugar, simplemente seleccionas aquellas que te interesen. Busca en el portal la lista de materias en inglés.  Yo inscribí los cursos de Inteligencia artificial, imagenología médica, visión por computadora, conoce Finlandia, cultura finesa, finés 1A y finés 1B.
 
