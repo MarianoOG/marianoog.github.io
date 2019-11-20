@@ -1,5 +1,5 @@
 <!-- Post header image -->
-<div class="container-fluid px-0">
+<div class="container-fluid px-0 hidden-md-up">
 
   {% if page.img %}
     <img class="img-fluid" src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}">
@@ -17,14 +17,14 @@
 
       <div class="col-sm-12 col-md-9">
 
-        <div class="mb-60"></div>
-
         <div class="row">
           <div class="col">            
             <h1><strong>{{ page.title }}</strong></h1>
           </div>
         </div>
 
+        <div class="mb-20"></div>
+        
         {{ content }}
 
         <div class="row">
