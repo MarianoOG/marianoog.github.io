@@ -4,13 +4,13 @@
     <div class="row">
       <div class="col">
         {% if page.img %}
-          <img src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}">
+          <img src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}" style="width:100%">
         {% endif %}
       </div>
     </div>
     <a href="#post" class="page-scroll btn btn-lg btn-default-filled">Leer Post</a>
   </div>
-<section/>
+</section>
 
 <!-- Post content+sidebar -->
 
@@ -21,20 +21,22 @@
   <div class="container">
     
     <div class="row">
-      
-      <div class="col">
-        <h1><strong>{{ page.title }}</strong></h1>
-        {% if page.tagline %}
-          <p>
-            {{ page.tagline }}
-          </p>
-        {% endif %}
-      <div/>
 
       <div class="col-sm-12 col-md-9">
 
         <div class="mb-60"></div>
         
+        <div class="row">
+          <div class="col">
+            <h1><strong>{{ page.title }}</strong></h1>
+            {% if page.tagline %}
+              <p>
+                {{ page.tagline }}
+              </p>
+            {% endif %}
+          </div>
+        </div>
+
         {{ content }}
 
         <div class="row">
