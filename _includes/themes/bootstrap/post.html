@@ -2,39 +2,15 @@
 <section id="img-header">
   <div class="container-fluid">
     <div class="row">
-
       <div class="col">
         {% if page.img %}
-          <figure>
-            <img src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}">
-          </figure>
+          <img src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}">
         {% endif %}
       </div>
     </div>
+    <a href="#post" class="page-scroll btn btn-lg btn-default-filled">Leer Post</a>
   </div>
 <section/>
-
-<!-- Post header -->  
-<div class="header-style-2">
-  <div class="container">
-    <div class="row">
-      
-      <div class="col">
-        <div class="hero-content-v2" style="margin-top:10px!important;">
-          <h3><strong>{{ page.title }}</strong></h3>
-          {% if page.tagline %}
-            <p>
-              {{ page.tagline }}
-            </p>
-          {% endif %}
-          <a href="#post" class="page-scroll btn btn-lg btn-default-filled">Leer Post</a>
-          <div class="mb-60"></div>                      
-        </div>
-      </div>
-
-    </div>
-  </div>
-</div>
 
 <!-- Post content+sidebar -->
 
@@ -46,6 +22,15 @@
     
     <div class="row">
       
+      <div class="col">
+        <h1><strong>{{ page.title }}</strong></h1>
+        {% if page.tagline %}
+          <p>
+            {{ page.tagline }}
+          </p>
+        {% endif %}
+      <div/>
+
       <div class="col-sm-12 col-md-9">
 
         <div class="mb-60"></div>
