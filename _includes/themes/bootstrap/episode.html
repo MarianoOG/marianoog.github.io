@@ -1,9 +1,9 @@
-<!-- Post header -->
+<!-- Episode header -->
 <div class="header-style-2">
   <div class="container">
     <div class="row">
       
-      <div class="col-xs-12 col-sm-6">
+      <div class="col">
         <div class="hero-content-v2" style="margin-top:10px!important;">
           <h3><strong>{{ page.title }}</strong></h3>
           {% if page.tagline %}
@@ -19,21 +19,18 @@
         </div>
       </div>
 
-      <div class="col-xs-12 col-sm-6">
-        <figure>
-          <img src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Portada del episodio {{ page.title }}">
-        </figure>
-      </div>
-
     </div>
   </div>
 </div>
 
-<!-- Post content+sidebar -->
+<!-- Episode header image -->
+<div class="container-fluid px-0 hidden-md-up">
+  <img  class="img-fluid" src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Portada del episodio {{ page.title }}">
+</div>
 
 <div class="mb-60"></div>
 
-<!-- Blog content + sidebar -->
+<!-- Episode content+sidebar -->
 <section id="post" class="blog">
   <div class="container">
     
