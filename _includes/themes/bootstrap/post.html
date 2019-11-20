@@ -1,29 +1,11 @@
 <!-- Post header image -->
-<section id="img-header">
-  <div class="container-fluid">
+<div class="container-fluid">
 
-    <div class="row">
-      <div class="col">
-        <h1><strong>{{ page.title }}</strong></h1>
-        {% if page.tagline %}
-          <p>
-            {{ page.tagline }}
-          </p>
-        {% endif %}
-        <a href="#post" class="page-scroll btn btn-lg btn-default-filled">Leer Post</a>
-      </div>
-    </div>
-
-    <div class="row">
-      <div class="col">
-        {% if page.img %}
-          <img class="img-fluid" src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}">
-        {% endif %}
-      </div>
-    </div>
-    
-  </div>
-</section>
+  {% if page.img %}
+    <img class="img-fluid" src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}">
+  {% endif %}
+  
+</div>
 
 <div class="mb-60"></div>
 
@@ -36,6 +18,21 @@
       <div class="col-sm-12 col-md-9">
 
         <div class="mb-60"></div>
+
+        {% if page.img %}
+          <img class="img-fluid" src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}">
+        {% endif %}
+
+        <div class="row">
+          <div class="col">            
+            <h1><strong>{{ page.title }}</strong></h1>
+            {% if page.tagline %}
+              <p>
+                {{ page.tagline }}
+              </p>
+            {% endif %}
+          </div>
+        </div>
 
         {{ content }}
 
