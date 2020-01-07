@@ -2,9 +2,7 @@
 layout: index
 title: MarianoOG
 tagline: Página personal de Mariano Orozco García
-css: 
-js:
-keywords: Programación, IA, Inteligencia Artificial, Algoritmos, Machine Learning, Ciencia de Datos, Kichihua, Software, marianoog
+keywords: Mariano Orozco Garcia, marianoog
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
@@ -34,6 +32,51 @@ canonical: https://marianoog.github.io
     </div>
 
   </div>
+
+  <div class="container">
+    <h4 class="sub-title space-left">Pensamientos <a href="{{ BASE_PATH }}/Pensamientos">(ver todos)</a></h4>
+  </div>
+
+  <!-- Posts carousel -->
+  <section id="blog">
+    <div class="container">                              
+      <div id="posts-carousel" class="owl-carousel">
+        {% for post in site.posts limit 10 %}     
+          <div class="blog block carousel-post text-center">
+            {% if post.img %}           
+              <img src="{{ BASE_PATH }}/assets/images/cover/{{ post.img }}" alt="Post image of {{ post.title }}">
+            {% endif %}           
+            <h5>{{ post.cap }} {{ post.title }}</h5>
+            <p>{{ post.tagline }}</p>
+            <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-common">Leer mas <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+          </div>
+        {% endfor %}     
+      </div>              
+    </div>
+
+  </section>
+  <!-- End Posts carousel -->
+
+  <!-- Podcast Header -->
+  <div id="headers">
+    <header id="header-style-1">
+      <div class="container">
+        <div class="header-caption">
+          <div class="row">
+            <div class="col-md-12 header-content">
+              <h3 class="header-title animated fadeInDown">Podcast <span class="text-primary">Algoritmos</span></h3>
+              <p class="header-text animated fadeIn">La tecnología que utilizamos cada vez se vuelve más compleja y confusa. Si como a mí te interesa saber más sobre cómo funciona y como está cambiando el mundo en el que vivimos, escucha el podcast algoritmos. En el aprenderemos juntos sobre los algoritmos que utilizan las herramientas digitales, discutiremos los problemas derivados de su uso y las nuevas oportunidades que nos brindan.</p>
+              <a href="https://ona309.com/Podcast" class="btn btn-lg btn-default-filled animated fadeInUp">Escuchar ahora</a>
+              <a href="https://ona309.com/Algoritmos" class="btn btn-lg btn-common animated fadeInUp">Leer más <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+  </div>
+  <!-- Podcast Header End -->
+
+  <div class="mb-60"></div>
 
   <!-- portfolio section 3col -->
   <section id="portfolio">
@@ -117,51 +160,6 @@ canonical: https://marianoog.github.io
     </div>
   </section>
   <!-- End portfolio section 3col -->
-
-  <!-- Podcast Header -->
-  <div id="headers">
-    <header id="header-style-1">
-      <div class="container">
-        <div class="header-caption">
-          <div class="row">
-            <div class="col-md-12 header-content">
-              <h3 class="header-title animated fadeInDown">Podcast <span class="text-primary">Algoritmos</span></h3>
-              <p class="header-text animated fadeIn">La tecnología que utilizamos cada vez se vuelve más compleja y confusa. Si como a mí te interesa saber más sobre cómo funciona y como está cambiando el mundo en el que vivimos, escucha el podcast algoritmos. En el aprenderemos juntos sobre los algoritmos que utilizan las herramientas digitales, discutiremos los problemas derivados de su uso y las nuevas oportunidades que nos brindan.</p>
-              <a href="https://ona309.com/Podcast" class="btn btn-lg btn-default-filled animated fadeInUp">Escuchar ahora</a>
-              <a href="https://ona309.com/Algoritmos" class="btn btn-lg btn-common animated fadeInUp">Leer más <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
-  </div>
-  <!-- Podcast Header End -->
-
-  <div class="mb-60"></div>
-
-  <div class="container">
-    <h4 class="sub-title space-left">Pensamientos <a href="{{ BASE_PATH }}/Archivo">(ver todos)</a></h4>
-  </div>
-
-  <!-- Posts carousel -->
-  <section id="blog">
-    <div class="container">                              
-      <div id="posts-carousel" class="owl-carousel">
-        {% for post in site.posts limit 10 %}     
-          <div class="blog block carousel-post text-center">
-            {% if post.img %}           
-              <img src="{{ BASE_PATH }}/assets/images/cover/{{ post.img }}" alt="Post image of {{ post.title }}">
-            {% endif %}           
-            <h5>{{ post.title }}</h5>
-            <p>{{ post.tagline }}</p>
-            <a href="{{ BASE_PATH }}{{ post.url }}" class="btn btn-common">Leer mas <i class="fa fa-arrow-right" aria-hidden="true"></i></a>
-          </div>
-        {% endfor %}     
-      </div>              
-    </div>
-
-  </section>
-  <!-- End Posts carousel -->
 
 </div>
 <!-- Content area end -->
