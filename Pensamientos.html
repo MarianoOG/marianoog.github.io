@@ -9,6 +9,7 @@ canonical: https://marianoog.github.io
 {% include JB/setup %}
 
 <h1>Pensamientos</h1>
+<div class="mb-40"></div>
 
 {% for post in site.posts limit 3 %}
   <div class="blog-block post-content-area">
@@ -21,10 +22,11 @@ canonical: https://marianoog.github.io
           <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Read More</a>
         </div>
       </div>
-  <div class="mb-60"></div>
+  <div class="mb-40"></div>
 {% endfor %}
 
 <h2>Archivo</h2>
+<div class="mb-40"></div>
 
 {% assign posts_collate = site.posts %}
 {% include JB/posts_collate %}
