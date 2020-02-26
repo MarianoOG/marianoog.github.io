@@ -8,10 +8,10 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-<h1>Pensamientos Recientes</h1>
+<h1>Pensamientos</h1>
 <div class="mb-40"></div>
 
-{% for post in site.posts limit 3 %}
+{% for post in site.posts limit:3 %}
   <div class="blog-block post-content-area">
    {% if post.img %}	  
       <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
