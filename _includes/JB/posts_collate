@@ -28,6 +28,7 @@ Usage:
   
     {% if forloop.first %}
       <h3>Archivo del {{this_year}}</h3>
+      <br>
       <ul>
     {% endif %}
   
@@ -39,6 +40,7 @@ Usage:
       {% if this_year != next_year %}
         </ul>
         <h3>Archivo del {{next_year}}</h3>
+        <br>
         <ul>
       {% endif %}
     {% endif %}
