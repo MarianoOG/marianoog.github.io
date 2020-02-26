@@ -1,7 +1,7 @@
 <!-- Post header image -->
 <div class="container-fluid px-0 hidden-md-up">
   {% if page.img %}
-    <img class="img-fluid" src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}">
+    <img class="img-fluid" src="{{ BASE_PATH }}/assets/images/{{ page.img }}" alt="Image of {{ page.title }}">
   {% endif %}
 </div>
 
@@ -17,7 +17,7 @@
 
         <div class="row mb-40 hidden-sm-down">
           {% if page.img %}
-            <img class="img-fluid" src="{{ BASE_PATH }}/assets/images/cover/{{ page.img }}" alt="Image of {{ page.title }}">
+            <img class="img-fluid" src="{{ BASE_PATH }}/assets/images/{{ page.img }}" alt="Image of {{ page.title }}">
           {% endif %}
         </div>
         
@@ -42,7 +42,7 @@
       </div>
       
       <div class="col-sm-12 col-md-3">
-        {% include side-bar.html %}
+        {% include themes/bootstrap/side-bar.html %}
       </div>
 
     </div>
