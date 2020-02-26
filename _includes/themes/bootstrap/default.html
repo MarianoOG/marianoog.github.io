@@ -66,9 +66,12 @@
       <!--Home page style--> 
       {% include themes/bootstrap/nav-bar.html %}
       
-      {{ content }}
-      <br>
-      {% include themes/bootstrap/footer.html %}
+      {% content %}
+
+      {% unless page.title == "Error 404 | MarianoOG" %}
+        <br>
+        {% include themes/bootstrap/footer.html %}
+      {% endunless %}
   </div>
 
   <!-- JS includes -->
