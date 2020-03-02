@@ -2,8 +2,8 @@
 layout: post
 title: Ventajas, desventajas de programar y porque me gusta tanto
 tagline: Empezar a programar suena como algo imposible y muy complicado si nunca lo has hecho. Sin embargo, en mi opinión, se convertirá en una habilidad básica para trabajar en cualquier industria. Aquí lo bueno y lo malo de ser programador.
+cap: "002"
 img: programar.jpg
-keywords: escribir, pensamientos, Mariano Orozco Garcia, marianoog
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
