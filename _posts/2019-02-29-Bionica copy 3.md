@@ -1,14 +1,14 @@
 ---
 layout: post
-title: Bionica
-tagline: other
+title: ¿Qué es la biónica y poruqué creo que es importante?
+tagline: Cuando digo que estudié ingeniería en biónica regularmente me preguntan si puedo crear un ojo que pueda ver más lejos, piernas y brazos que puedan cargar más cosas incluso me han pedido crear un traje de Iron-Man. Estos comentarios si bien están influenciadas por la ciencia ficción pueden llegar a ser posibles. Sin embargo, existen varias áreas la biónica que no son mencionadas por eso me decidí a hacer este escrito y a hablar de ello en mi podcast.
 cap: "003"
 img: bionica.jpg
 canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-## Primeras impresiones
+# ¿Qué es la biónica y porqué creo que es importante?
 
 Cuando digo que estudié ingeniería en biónica regularmente me preguntan si puedo crear un ojo que pueda ver más lejos, piernas y brazos que puedan cargar más cosas incluso me han pedido crear un traje de Iron-Man. Estos comentarios si bien están influenciadas por la ciencia ficción pueden llegar a ser posibles. Sin embargo, existen varias áreas la biónica que no son mencionadas por eso me decidí a hacer este escrito y a hablar de ello en mi podcast.
 
