@@ -13,32 +13,40 @@ canonical: https://marianoog.github.io
 <section id="blog">
   <div class="container">                              
     <div class="row">
-        {% for post in site.posts limit:3 %}
-          <div class="col-md-4 mt-4">
-            <div class="blog-block post-content-area">
-              {% if post.img %}	  
-                <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
-              {% endif %}
-              <div class="blog-post">
-                <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-                <p>{{ post.tagline }}</p>
-                <div class="text-center">
-                  <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Leer mas</a>
-                </div>
+      {% for post in site.posts limit:3 %}
+        <div class="col-md-4 mt-4">
+          <div class="blog-block post-content-area">
+            {% if post.img %}	  
+              <img src="{{ BASE_PATH }}/assets/images/{{ post.img }}" alt="{{ post.title }} image">
+            {% endif %}
+            <div class="blog-post">
+              <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+              <p>{{ post.tagline }}</p>
+              <div class="text-center">
+                <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Leer mas</a>
               </div>
             </div>
-            </div>
+          </div>
+        </div>
       {% endfor %}
     </div>
-  </div>
-
-  <div class="mb-40"></div>
-
-  <div class="container">
-    <h2 class="sub-title space-left">Todos los pensamientos</a></h2>
     
-    {% assign posts_collate = site.posts %}
-    {% include JB/posts_collate %}
+    <div class="row">
+      {% for post in site.posts offset:3 %}
+        <div class="col-md-4 mt-4">
+          <div class="blog-block post-content-area">
+            <div class="blog-post">
+              <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
+              <p>{{ post.tagline }}</p>
+              <div class="text-center">
+                <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Leer mas</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      {% endfor %}
+    </div>
+    
   </div>
 
 </section>
