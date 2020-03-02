@@ -30,7 +30,7 @@ canonical: https://marianoog.github.io
         </div>
       {% endfor %}
 
-      {% for post in site.posts offset:1 limit:2 %}
+      {% for post in site.posts offset:1 %}
         <div class="col-md-4 mt-4">
           <div class="blog-block post-content-area">
             <div class="blog-post">
@@ -44,15 +44,6 @@ canonical: https://marianoog.github.io
         </div>
       {% endfor %}
 
-      {% for post in site.posts offset:3 %}
-        <div class="col-md-4 mt-4">
-          <div class="blog-block post-content-area" href="{{ BASE_PATH }}{{ post.url }}">
-            <div class="blog-post">
-              <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
-            </div>
-          </div>
-        </div>
-      {% endfor %}
     </div>
     
   </div>
