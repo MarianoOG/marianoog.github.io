@@ -7,12 +7,24 @@
     </a>
     
     <span class="copy-right dis-blk">
-      Mariano Orozco Garcia<br>Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA 4.0</a>
+      Contenido bajo licencia <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode">CC-BY-NC-SA 4.0</a>
     </span>
     
-    <div class="text-primary">
-      {% include themes/bootstrap/social-block.html %}
-    </div>
+    <span class="social">
+      {% if site.author.twitter %}
+        <a href="https://twitter.com/{{ site.author.twitter }}"><i class="fa fa-2x fa-twitter"></i></a>
+      {% endif %}
+      {% if site.author.linkedin %}
+        <a href="https://www.linkedin.com/in/{{ site.author.linkedin }}/"><i class="fa fa-2x fa-linkedin"></i></a>
+      {% endif %}
+      <a href="https://ona309.com/Podcast"><i class="fa fa-2x fa-podcast"></i></a>
+      {% if site.author.github %}
+        <a href="https://github.com/{{ site.author.github }}/"><i class="fa fa-2x fa-github"></i></a>
+      {% endif %}
+      {% if site.author.instagram %}
+        <a href="https://www.instagram.com/{{ site.author.instagram }}/"><i class="fa fa-2x fa-instagram"></i></a>
+      {% endif %}                            
+    </span>
 
   </div>
 </footer>
