@@ -16,8 +16,8 @@ Usage:
     {% endif %}
   
     <li>
-      <p><span>{{ post.date | date: "%d/%m/%Y" }}</span>:</p>
       <a href="{{ BASE_PATH }}{{ post.url }}">{{post.title}}</a>
+      <p><span>{{ post.date | date: "%d/%m/%Y" }}</span></p>
     </li>
   
     {% if forloop.last %}
