@@ -8,7 +8,7 @@ canonical: https://marianoog.github.io
 ---
 {% include JB/setup %}
 
-<h1>Pensamientos</h1>
+<h1 class="text-center">Pensamientos</h1>
 <div class="mb-40"></div>
 
 {% for post in site.posts limit:3 %}
@@ -19,7 +19,9 @@ canonical: https://marianoog.github.io
     <div class="blog-post">
       <h3><a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></h3>
       <p>{{ post.tagline }}</p>
-      <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Leer mas</a>
+      <div class="text-center">
+        <a class="btn btn-common" href="{{ BASE_PATH }}{{ post.url }}">Leer mas</a>
+      </div>
     </div>
   </div>
   <div class="mb-40"></div>

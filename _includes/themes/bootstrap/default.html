@@ -64,12 +64,13 @@
   
   <div class="wrapper">	  	  
       <!--Home page style--> 
-      {% include themes/bootstrap/nav-bar.html %}
+      {% unless page.title == "MarianoOG" %}
+        {% include themes/bootstrap/nav-bar.html %}
+      {% endunless %}
       
       {{ content }}
 
       {% unless page.title == "Error 404 | MarianoOG" %}
-        <br>
         {% include themes/bootstrap/footer.html %}
       {% endunless %}
   </div>
