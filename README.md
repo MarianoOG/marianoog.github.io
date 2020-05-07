@@ -1,6 +1,6 @@
 # Página personal
 
-![Logo MarianoOG](assets/images/logo.png)
+![Logo MarianoOG](assets/images/marianoog.png)
 
 Esta es la página personal antigua de de Mariano Orozco García la puedes encontrar en https://marianoog.github.io.
 
